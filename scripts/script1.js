@@ -1,0 +1,1 @@
+console.log('our script 1 is runninng')
